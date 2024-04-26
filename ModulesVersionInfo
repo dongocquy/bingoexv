@@ -1,6 +1,5 @@
 \SystemModule	17.1.6.0
 \SystemWindowsFormsModule	17.1.6.0
-\AuditTrailModule	17.1.6.0
 \BusinessClassLibraryCustomizationModule	17.1.6.0
 \ChartModule	17.1.6.0
 \CloneObjectModule	17.1.6.0
@@ -17,7 +16,8 @@
 \StateMachineModule	17.1.6.0
 \TreeListEditorsModuleBase	17.1.6.0
 \ViewVariantsModule	17.1.6.0
-\VietRauModule	1.0.8857.21227
+\AuditTrailModule	17.1.6.0
+\VietRauModule	1.0.8876.28370
 \ChartWindowsFormsModule	17.1.6.0
 \DashboardsWindowsFormsModule	17.1.6.0
 \NotificationsWindowsFormsModule	17.1.6.0
@@ -28,7 +28,5 @@
 \ScriptRecorderWindowsFormsModule	17.1.6.0
 \TreeListEditorsWindowsFormsModule	17.1.6.0
 \ValidationWindowsFormsModule	17.1.6.0
-\ImportWizardModule	17.1.6.6
-\ImportWizardWindowsFormsModule	17.1.6.6
-\v2WindowsFormsModule	1.0.8857.21231
+\BingoEXVWindowsFormsModule	1.0.8876.40510
 \SecurityModule	17.1.6.0
