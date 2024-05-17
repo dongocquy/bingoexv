@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Application Logo="tacgia" Title="Bingo EXV Manager" Company="Bingo EXV" Description="Tác giả: Đỗ Ngọc Quý. Phương thức liên lạc: Mobile/Zalo/Viber/WhatsApp/Line: 0937.898.345">
+<Application Logo="tacgia" Title="Bingo EXV Manager" Company="Bingo EXV" Description="Tác giả: Đỗ Ngọc Quý. Mobile/Zalo/Viber/WhatsApp/Line: 0937.898.345">
   <Options Skin="Visual Studio 2013 Blue" UIType="TabbedMDI" FormStyle="Ribbon">
     <RibbonOptions RibbonControlStyle="Office2013" />
   </Options>
