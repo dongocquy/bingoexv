@@ -1,1 +1,0 @@
-xcopy BangChamCong\*.* C:\inetpub\wwwroot\download\PDF\BangChamCong
