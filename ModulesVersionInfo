@@ -18,7 +18,7 @@
 \ViewVariantsModule	17.1.6.0
 \AuditTrailModule	17.1.6.0
 \FileAttachmentsWindowsFormsModule	17.1.6.0
-\VietRauModule	1.0.9087.27067
+\VietRauModule	1.0.9135.20210
 \ChartWindowsFormsModule	17.1.6.0
 \DashboardsWindowsFormsModule	17.1.6.0
 \NotificationsWindowsFormsModule	17.1.6.0
@@ -31,5 +31,5 @@
 \ValidationWindowsFormsModule	17.1.6.0
 \ImportWizardModule	17.1.6.6
 \ImportWizardWindowsFormsModule	17.1.6.6
-\BingoEXVWindowsFormsModule	1.0.9087.27069
+\BingoEXVWindowsFormsModule	1.0.9135.20211
 \SecurityModule	17.1.6.0
